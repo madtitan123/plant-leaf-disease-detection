@@ -1,4 +1,6 @@
-﻿asgiref==3.7.2
+setuptools
+wheel
+asgiref==3.7.2
 blinker==1.6.2
 certifi==2022.12.7
 charset-normalizer==2.1.1
