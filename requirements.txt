@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 setuptools
-=======
-﻿setuptools
->>>>>>> 9bf348a (WIP: temp changes before rebase)
 wheel
 asgiref==3.7.2
 blinker==1.6.2
